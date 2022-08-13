@@ -4,4 +4,5 @@ selamat datang di pengalaman belajar ku
 
 welcome to my GitHub!!!!
 
-latihan melakukan squashing dan merge
+latihan melakukan squashing changes
+ 
