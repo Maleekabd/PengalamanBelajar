@@ -6,3 +6,4 @@ welcome to my GitHub!!!!
 
 latihan melakukan squashing changes
  
+ apa itu squashing changes?
